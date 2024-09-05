@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d952e3f-3086-4dcb-b6a1-a570b2752f4a" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/NumberGuessingGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberGuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberGuessingGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     "onboarding.tips.debug.path": "C:/Users/Dell/IdeaProjects/CodSoft_Java_intern/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumberGuessingGame">
+  <component name="RunManager" selected="Application.java_internship_question_01">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="CodSoft_Java_intern" />
@@ -61,8 +61,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="java_internship_question_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_internship_question_01" />
+      <module name="CodSoft_Java_intern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java_internship_question_01" />
         <item itemvalue="Application.NumberGuessingGame" />
         <item itemvalue="Application.Main" />
       </list>
@@ -93,12 +101,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725533049822</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1725533312586</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725533312586</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
