@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d952e3f-3086-4dcb-b6a1-a570b2752f4a" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/Task_4_StudentCourseRegistrationSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_internship_question_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_internship_question_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberGuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberGuessingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_internship_question_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_internship_question_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,40 +33,60 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/java_internship_question_04.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2leF6Y2ji8OhtowptLyw2JjKyEO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/Dell/IdeaProjects/CodSoft_Java_intern/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Dell/IdeaProjects/CodSoft_Java_intern/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.java_internship_question_01">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+}</component>
+  <component name="RunManager" selected="Application.java_internship_question_03 (1)">
+    <configuration name="java_internship_question_03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_internship_question_03" />
       <module name="CodSoft_Java_intern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberGuessingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberGuessingGame" />
+    <configuration name="java_internship_question_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_internship_question_03" />
       <module name="CodSoft_Java_intern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_internship_question_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_internship_question_01" />
+    <configuration name="java_internship_question_04 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_internship_question_04" />
+      <module name="CodSoft_Java_intern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java_internship_question_04 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_internship_question_04" />
+      <module name="CodSoft_Java_intern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java_internship_question_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_internship_question_04" />
       <module name="CodSoft_Java_intern" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,9 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.java_internship_question_01" />
-        <item itemvalue="Application.NumberGuessingGame" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.java_internship_question_03 (1)" />
+        <item itemvalue="Application.java_internship_question_03" />
+        <item itemvalue="Application.java_internship_question_04 (2)" />
+        <item itemvalue="Application.java_internship_question_04 (1)" />
+        <item itemvalue="Application.java_internship_question_04" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +135,39 @@
       <option name="project" value="LOCAL" />
       <updated>1725533312586</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1725551390275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725551390275</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1725609324908</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725609324908</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1725609447910</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725609447910</updated>
+    </task>
+    <task id="LOCAL-00007" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1725878407885</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725878407885</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

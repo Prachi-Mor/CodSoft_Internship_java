@@ -14,7 +14,7 @@ public class java_internship_question_01 {
         while (playAgain) {
             int randomNumber = random.nextInt(100) + 1;  // Generates a random number between 1 and 100
             int attempts = 0; // Counter for the number of attempts made by the user
-            int maxAttempts = 5;  // Limit the number of attempts allowed
+            int maxAttempts = 7;  // Limit the number of attempts allowed
             boolean hasWon = false; // Flag to indicate whether the user has guessed correctly
 
             System.out.println("\nA random number between 1 and 100 has been generated.");
